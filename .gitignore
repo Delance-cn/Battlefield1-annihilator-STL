@@ -1,0 +1,14 @@
+# model files live in Releases, not in git history
+*.stl
+*.obj
+*.3mf
+*.step
+*.stp
+*.zip
+*.7z
+*.rar
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
