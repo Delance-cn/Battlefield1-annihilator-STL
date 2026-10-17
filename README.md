@@ -2,6 +2,14 @@
 
 Fan-made 1:1 printable kit of the Annihilator from Battlefield 1. Overall length about **785 mm**. Everything prints on a **200 × 200 mm** bed, split into 9 body blocks plus a 2-section magazine.
 
+![Engraved version, side view](images/01-engraved-side.png)
+
+| Split layout | Block map |
+| --- | --- |
+| ![Engraved split layout](images/03-engraved-split.png) | ![Block map](images/05-engraved-layout.png) |
+
+![Detachable magazine assembly](images/mag-e4-assembly-iso.png)
+
 Two versions share the same geometry and the same split layout — the only difference is the surface:
 
 | Version | Surface |
